@@ -42,19 +42,19 @@ node index.js
 
 ### Commands: 
 
-!!roll (num to start from) (max num) [num1 to exclude, num2, num3]
+`!!roll (num to start from) (max num) [num1 to exclude, num2, num3]`
 
 Any number it rolls will be added to a database, and it'll exclude it next time.
 
-!!skipped 
+`!!skipped `
 This command will display all numbers in the database which will be skipped in future rolls.
 
-!!remove [specific number]
+`!!remove [specific number]`
 Will remove all or a specific number from that database
-!!remove
+`!!remove`
 Will remove all numbers from the database if `!!remove` is not given a value.
 
-!!rig (num)
+`!!rig (num)`
 Will add a specific number to a database. 
 The roll command will check this database for a number, if there is a number there it will display that number and then delete it from the database
 
