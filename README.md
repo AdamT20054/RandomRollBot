@@ -26,9 +26,6 @@ To get a local copy up and running follow these simple example steps.
 
 Download Node.js so you can use `npm i` to install the modules the bot needs
 
-```sh
-cd src/UTbot
-```
 
 ### Installation
 
@@ -36,15 +33,14 @@ cd src/UTbot
 
 2. Paste the bot token at the botton of the index.js file were it says "INSERT TOKEN HERE"
 
-3. In the command line, type:
+3. In the command line while in the same dir as `index.js`, type:
 ```sh
 node .
 ```
 4. The bot should come online.
 
-```
 
-# Commands: 
+### Commands: 
 
 !!roll (num to start from) (max num) [num1 to exclude, num2, num3]
 
