@@ -35,7 +35,7 @@ Download Node.js so you can use `npm i` to install the modules the bot needs
 
 3. In the command line while in the same dir as `index.js`, type:
 ```sh
-node .
+node index.js
 ```
 4. The bot should come online.
 
