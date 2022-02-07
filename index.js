@@ -189,4 +189,4 @@ client.on('messageCreate', async function(message) {
     }
 });
 
-client.login('OTQwMDAxMjkwNjk4NzcyNDgw.YgBCbA.79QEbZDfc6cw7MhaBragksMZ8jo');
+client.login('INSERT TOKEN HERE');
