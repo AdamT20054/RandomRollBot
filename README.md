@@ -56,6 +56,6 @@ Will remove all or a specific number from that database.
 Will remove all numbers from the database if `!!remove` is not given a value.
 
 `!!rig (num)`
-Will add a specific number to a database. The roll command will check this database for a number, if there is a number there it will display that number and then delete it from the database
+Will add a specific number to the database. The roll command will check this database for a number, if there is a number there it will display that number and then delete it from the database
 
 
